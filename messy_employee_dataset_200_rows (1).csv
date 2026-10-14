@@ -1,0 +1,201 @@
+EmployeeID,Name,Age,Department,City,EmploymentStatus,MonthlySalary,PerformanceScore,HireDate,Email
+1,Employee 1,thirty,HR,,On Leave,73000,84,2022/07/01,employee1@example.com
+2,Employee 2,25,Support,Nakuru,Active,65000,55,2021-03-15,employee2@example.com
+3,Employee 3,25,Finance,Nakuru,ACTIVE,45000,76,2022/07/01,employee3@example.com
+4,Employee 4,thirty,Marketing,Eldoret,Inactive,72000,91,2021-03-15,employee4@example.com
+5,Employee 5,28,Operations, Kisumu,On Leave,61000,84,15-01-2020,employee5@example.com
+6,Employee 6,25,Operations,Nairobi,On Leave,,91,2021-03-15,employee6@example.com
+7,Employee 7,,HR,Eldoret,Active,N/A,91,2024-2-5,employee7@example.com
+8,Employee 8,27,Marketing,Mombasa,inactive,52000,55,2024-2-5,employee8@example.com
+9,Employee 9,31,HR,Mombasa,Active,65000,91,2023-11-09,employee9@example.com
+10,Employee 10,thirty,Finance, Kisumu,On Leave,73000,91,2024-2-5,employee10@example.com
+11,Employee 11,thirty,HR,Nakuru,inactive,61000,76,2024-2-5,employee11@example.com
+12,Employee 12,31,Operations,Eldoret,On Leave,N/A,84,2024-2-5,employee12@example.com
+13,Employee 13,40,Finance,Nairobi,On Leave,65000,91,2021-03-15,employee13@example.com
+14,Employee 14,31,Support, Kisumu,Inactive,72000,88,2024-2-5,employee14@example.com
+15,Employee 15,,IT,Mombasa,Inactive,N/A,76,15-01-2020,employee15@example.com
+16,Employee 16,27,Marketing,Eldoret,On Leave,73000,71,,employee16@example.com
+17,Employee 17,,hr,Nairobi,Active,61000,71,2024-2-5,employee17@example.com
+18,Employee 18,45,HR,Eldoret,active ,72000,76,15-01-2020,employee18@example.com
+19,Employee 19,29,Support,,Active,N/A,91,2024-2-5,employee19@example.com
+20,Employee 20,40,IT,Eldoret,Inactive,72000,55,2024-2-5,employee20@example.com
+21,Employee 21,35,marketing,Mombasa,ACTIVE,52000,91,2024-2-5,employee21@example.com
+22,Employee 22,29,Finance,Mombasa,On Leave,61000,76,,employee22@example.com
+23,Employee 23,22,IT,Eldoret,Active,52000,,15-01-2020,employee23@example.com
+24,Employee 24,31,Finance,Nakuru,Active,52000,?,2021-03-15,employee24@example.com
+25,Employee 25,29,Finance,,active ,N/A,71,15-01-2020,employee25@example.com
+26,Employee 26,29,Operations,Mombasa,ACTIVE,73000,91,2023-11-09,employee26@example.com
+27,Employee 27,thirty,IT,Eldoret,ACTIVE,72000,62,2022/07/01,employee27@example.com
+28,Employee 28,31,IT,Nairobi,ACTIVE,N/A,84,,employee28@example.com
+29,Employee 29,31,HR,,inactive,45000,84,2021-03-15,employee29@example.com
+30,Employee 30,22,HR,Nakuru,Inactive,88000,?,2022/07/01,employee30@example.com
+31,Employee 31,29,Support,Nakuru,ACTIVE,72000,84,2023-11-09,employee31@example.com
+32,Employee 32,45,HR,Nairobi,inactive,65000,,2023-11-09,employee32@example.com
+33,Employee 33,45,operations,,Active,52000,55,2023-11-09,employee33@example.com
+34,Employee 34,40,Finance,Mombasa,Inactive,N/A,?,2022/07/01,employee34@example.com
+35,Employee 35,45,IT,Eldoret,Inactive,52000,?,,employee35@example.com
+36,Employee 36,25,Support,Nakuru,Active,52000,84,2022/07/01,employee36@example.com
+37,Employee 37,45,Operations,Mombasa,active ,45000,71,2023-11-09,employee10@example.com
+38,Employee 38,22,IT,Eldoret,On Leave,65000,76,2024-2-5,employee38@example.com
+39,Employee 39,,Finance, Kisumu,Inactive,45000,76,2021-03-15,employee39@example.com
+40,Employee 40,40,HR,Nakuru,active ,N/A,76,2022/07/01,employee40@example.com
+41,Employee 41,22,HR,Mombasa,Active,52000,84,2023-11-09,employee41@example.com
+42,Employee 42,25,Finance,Nakuru,ACTIVE,45000,62,2023-11-09,employee42@example.com
+43,Employee 43,thirty,Marketing,Nakuru,On Leave,88000,84,2024-2-5,employee43@example.com
+44,Employee 44,40,IT,Eldoret,Inactive,88000,?,15-01-2020,employee44@example.com
+45,Employee 45,25,Operations,Nakuru,ACTIVE,52000,62,,employee45@example.com
+46,Employee 46,31,IT,Mombasa,On Leave,52000,84,15-01-2020,employee46@example.com
+47,Employee 47,35,Operations,Nakuru,inactive,88000,76,2021-03-15,employee47@example.com
+48,Employee 48,thirty,IT,,Active,61000,91,2021-03-15,employee48@example.com
+49,Employee 49,25,Marketing,Mombasa,On Leave,88000,84,2024-2-5,employee49@example.com
+50,Employee 50,40,Support,,On Leave,N/A,?,15-01-2020,employee50@example.com
+51,Employee 51,22,Support,Eldoret,On Leave,45000,55,15-01-2020,employee51@example.com
+52,Employee 52,28,IT,Mombasa,inactive,72000,76,2024-2-5,employee52@example.com
+53,Employee 53,45,HR,Nairobi,Active,61000,76,2021-03-15,employee53@example.com
+54,Employee 54,40,Marketing,Mombasa,active ,61000,55,15-01-2020,employee54@example.com
+55,Employee 55,40,IT,Mombasa,inactive,73000,62,15-01-2020,employee55@example.com
+56,Employee 56,29,Marketing,,Inactive,73000,71,2022/07/01,employee56@example.com
+57,Employee 57,45,Finance,,On Leave,65000,84,15-01-2020,employee57@example.com
+58,Employee 58,28,HR,Eldoret,Active,72000,84,2022/07/01,employee58@example.com
+59,Employee 59,,IT,Mombasa,Inactive,45000,84,2023-11-09,employee59@example.com
+60,Employee 60,40,it,Nairobi,On Leave,,76,2023-11-09,employee60@example.com
+61,Employee 61,thirty,IT,Nairobi,Active,88000,71,,employee61@example.com
+62,Employee 62,35,HR,Nakuru,active ,,,2023-11-09,employee62@example.com
+63,Employee 63,27,HR,Eldoret,ACTIVE,73000,91,2021-03-15,employee63@example.com
+64,Employee 64,45,Marketing,Nakuru,inactive,73000,,2023-11-09,employee64@example.com
+65,Employee 65,25,IT,Nakuru,On Leave,52000,91,,employee65@example.com
+66,Employee 66,35,Operations, Kisumu,active ,88000,76,2022/07/01,employee66@example.com
+67,Employee 67,31,Support,Eldoret,inactive,61000,91,2023-11-09,employee67@example.com
+68,Employee 68,29,IT, Kisumu,Inactive,65000,,2023-11-09,employee68@example.com
+69,Employee 69,,Support,Mombasa,ACTIVE,72000,71,2024-2-5,employee69@example.com
+70,Employee 70,25,Marketing,,inactive,,62,2022/07/01,employee70@example.com
+71,Employee 71,thirty,Finance,Mombasa,Inactive,45000,55,2022/07/01,employee71@example.com
+72,Employee 72,,marketing,Nairobi,active ,65000,84,2024-2-5,employee72@example.com
+73,Employee 73,45,Operations,Mombasa,Inactive,45000,62,2023-11-09,employee73@example.com
+74,Employee 74,31,finance,,ACTIVE,72000,55,,employee10@example.com
+75,Employee 75,31,Operations,Mombasa,active ,N/A,76,,employee75@example.com
+76,Employee 76,40,Marketing,,ACTIVE,65000,76,2023-11-09,employee76@example.com
+77,Employee 77,28,support,Eldoret,active ,88000,84,2024-2-5,employee77@example.com
+78,Employee 78,35,Operations,,Inactive,88000,?,2021-03-15,employee78@example.com
+79,Employee 79,35,IT, Kisumu,On Leave,N/A,62,2022/07/01,employee79@example.com
+80,Employee 80,28,Operations,,Inactive,73000,62,2023-11-09,employee80@example.com
+81,Employee 81,45,Marketing,Eldoret,active ,45000,84,2023-11-09,employee81@example.com
+82,Employee 82,45,Support,Nairobi,ACTIVE,65000,?,2021-03-15,employee82@example.com
+83,Employee 83,40,it,Eldoret,active ,N/A,76,,employee83@example.com
+84,Employee 84,31,Finance, Kisumu,active ,72000,55,2023-11-09,employee84@example.com
+85,Employee 85,40,Support,Eldoret,inactive,61000,?,2022/07/01,employee85@example.com
+86,Employee 86,27,HR,Eldoret,ACTIVE,45000,62,2024-2-5,employee86@example.com
+87,Employee 87,45,finance,Eldoret,Inactive,45000,91,2023-11-09,employee87@example.com
+88, employee 88 ,40,Operations, Kisumu,On Leave,65000,91,2023-11-09,employee88@example.com
+89,Employee 89,35,Operations,Nairobi,inactive,N/A,55,15-01-2020,employee89@example.com
+90,Employee 90,31,HR,,Active,45000,84,2022/07/01,employee90@example.com
+91,Employee 91,22,Finance,Mombasa,Inactive,72000,62,,employee91@example.com
+92,Employee 92,31,Support, Kisumu,On Leave,61000,62,2022/07/01,employee92@example.com
+93,Employee 93,35,Marketing,Nairobi,On Leave,65000,88,2024-2-5,employee93@example.com
+94,Employee 94,31,Marketing,,inactive,73000,62,2024-2-5,employee94@example.com
+95,Employee 95,35,Marketing,Nairobi,ACTIVE,45000,,,employee95@example.com
+96,Employee 96,45,IT,Nairobi,ACTIVE,,55,2023-11-09,employee96@example.com
+97,Employee 97,,Operations, Kisumu,inactive,72000,71,2023-11-09,employee97@example.com
+98,Employee 98,28,Marketing,,On Leave,N/A,?,2023-11-09,employee98@example.com
+99,Employee 99,45,Marketing, Kisumu,On Leave,73000,62,15-01-2020,employee99@example.com
+100,Employee 100,,finance,Eldoret,ACTIVE,65000,,2021-03-15,employee100@example.com
+101,Employee 101,,Finance,Eldoret,Inactive,,91,15-01-2020,employee101@example.com
+102,Employee 102,35,Support, Kisumu,ACTIVE,45000,76,2022/07/01,employee102@example.com
+103,Employee 103,25,Support,Eldoret,active ,N/A,84,2024-2-5,employee103@example.com
+104,Employee 104,,Support,Eldoret,active ,45000,62,15-01-2020,employee104@example.com
+105,Employee 105,31,Support,Mombasa,On Leave,,?,,employee105@example.com
+106,Employee 106,29,Operations,,ACTIVE,,,2024-2-5,employee106@example.com
+107,Employee 107,,IT, Kisumu,Inactive,52000,84,15-01-2020,employee107@example.com
+108,Employee 108,25,Marketing,,Inactive,73000,84,2024-2-5,employee108@example.com
+109,Employee 109,,Support,Nakuru,ACTIVE,88000,62,2022/07/01,employee109@example.com
+110,Employee 110,35,IT,Mombasa,On Leave,45000,76,2022/07/01,employee110@example.com
+111,Employee 111,35,HR,Nakuru,On Leave,61000,?,2021-03-15,employee10@example.com
+112,Employee 112,22,IT,Eldoret,active ,72000,,2022/07/01,employee112@example.com
+113,Employee 113,22,it,Eldoret,Active,52000,88,2023-11-09,employee113@example.com
+114,Employee 114,25,Support,,Active,61000,71,,employee114@example.com
+115,Employee 115,35,Finance,Nairobi,ACTIVE,65000,84,,employee115@example.com
+116,Employee 116,45,Operations, Kisumu,ACTIVE,65000,91,,employee116@example.com
+117,Employee 117,27,Marketing,,Active,73000,84,15-01-2020,employee117@example.com
+118,Employee 118,thirty,Finance,Mombasa,Inactive,N/A,62,2022/07/01,employee118@example.com
+119,Employee 119,22,Operations,,ACTIVE,72000,91,2021-03-15,employee119@example.com
+120,Employee 120,31,Support, Kisumu,inactive,72000,62,2024-2-5,employee120@example.com
+121,Employee 121,31,it,,ACTIVE,73000,88,2021-03-15,employee121@example.com
+122,Employee 122,29,Support,Mombasa,On Leave,61000,62,2021-03-15,employee122@example.com
+123,Employee 123,28,Marketing,,ACTIVE,88000,?,2021-03-15,employee123@example.com
+124,Employee 124,,IT,,active ,88000,76,,employee124@example.com
+125,Employee 125,,HR,Nakuru,Active,65000,,,employee125@example.com
+126,Employee 126,35,HR,Mombasa,inactive,45000,91,,employee126@example.com
+127,Employee 127,22,Operations,Nakuru,inactive,72000,91,2022/07/01,employee127@example.com
+128,Employee 128,27,Support,Eldoret,Active,72000,,2023-11-09,employee128@example.com
+129,Employee 129,40,Support,Nairobi,Inactive,,88,2024-2-5,employee129@example.com
+130,Employee 130,,Support,Eldoret,ACTIVE,45000,?,2021-03-15,employee130@example.com
+131,Employee 131,40,IT,Nairobi,active ,N/A,55,2024-2-5,employee131@example.com
+132,Employee 132,29,Operations,Nairobi,Inactive,N/A,,,employee132@example.com
+133,Employee 133,,Operations,Nairobi,Inactive,88000,76,2022/07/01,employee133@example.com
+134,Employee 134,35,Support,Eldoret,Active,45000,84,2024-2-5,employee134@example.com
+135,Employee 135,28,Marketing,Nairobi,ACTIVE,65000,62,2022/07/01,employee135@example.com
+136,Employee 136,25,HR,,Inactive,72000,91,,employee136@example.com
+137,Employee 137,35,operations,Eldoret,active ,73000,?,,employee137@example.com
+138,Employee 138,28,Finance,Nakuru,ACTIVE,61000,62,15-01-2020,employee138@example.com
+139,Employee 139,45,it,Nakuru,On Leave,45000,91,2024-2-5,employee139@example.com
+140,Employee 140,35,Marketing,,active ,61000,?,,employee140@example.com
+141,Employee 141,,IT,Nakuru,ACTIVE,65000,?,15-01-2020,employee141@example.com
+142,Employee 142,31,Finance,Nakuru,active ,73000,88,2021-03-15,employee142@example.com
+143,Employee 143,40,Operations,,active ,65000,71,2023-11-09,employee143@example.com
+144,Employee 144,22,Marketing,Nakuru,On Leave,52000,?,2021-03-15,employee144@example.com
+145,Employee 145,29,HR,,Inactive,65000,71,2021-03-15,employee145@example.com
+146,Employee 146,,IT,Nakuru,inactive,65000,62,15-01-2020,employee146@example.com
+147,Employee 147,thirty,Operations, Kisumu,inactive,72000,76,2021-03-15,employee147@example.com
+148,Employee 148,27,Finance,,inactive,88000,84,2024-2-5,employee10@example.com
+149,Employee 149,25,HR,,inactive,52000,?,2022/07/01,employee149@example.com
+149,Employee 150,35,HR, Kisumu,Active,88000,,15-01-2020,employee150@example.com
+151,Employee 151,45,Finance,Nakuru,active ,61000,71,2022/07/01,employee151@example.com
+152,Employee 152,25,marketing,Eldoret,ACTIVE,73000,?,,employee152@example.com
+153,Employee 153,28,Operations,,On Leave,72000,91,2024-2-5,employee153@example.com
+154,Employee 154,22,IT,,ACTIVE,61000,62,2023-11-09,employee154@example.com
+155,Employee 155,40,IT,,active ,88000,?,15-01-2020,employee155@example.com
+156,Employee 156,31,operations,Eldoret,Active,73000,88,,employee156@example.com
+157,Employee 157,40,IT,,On Leave,45000,88,15-01-2020,employee157@example.com
+158,Employee 158,22,marketing,,inactive,45000,?,15-01-2020,employee158@example.com
+159,Employee 159,31,marketing, Kisumu,Inactive,73000,91,2024-2-5,employee159@example.com
+160,Employee 160,thirty,support,Mombasa,inactive,52000,55,15-01-2020,employee160@example.com
+161,Employee 161,,Marketing, Kisumu,inactive,61000,62,15-01-2020,employee161@example.com
+162,Employee 162,40,Operations,Mombasa,Inactive,61000,76,15-01-2020,employee162@example.com
+163,Employee 163,29,IT,Mombasa,On Leave,72000,91,2024-2-5,employee163@example.com
+164,Employee 164,40,Operations,Nairobi,Inactive,73000,88,,employee164@example.com
+165,Employee 165,40,hr,Eldoret,Active,88000,76,2021-03-15,employee165@example.com
+166,Employee 166,,Support,,inactive,88000,88,2024-2-5,employee166@example.com
+167,Employee 167,40,Support,Mombasa,active ,45000,76,15-01-2020,employee167@example.com
+168,Employee 168,27,Support,Nairobi,inactive,72000,91,2024-2-5,employee168@example.com
+169,Employee 169,45,Finance,Nairobi,Active,88000,?,2021-03-15,employee169@example.com
+170,Employee 170,25,Marketing,Mombasa,active ,72000,,2024-2-5,employee170@example.com
+171,Employee 171,29,Marketing,,inactive,61000,88,2024-2-5,employee171@example.com
+172,Employee 172,25,Marketing,Eldoret,On Leave,45000,,2022/07/01,employee172@example.com
+173,Employee 173,,Finance, Kisumu,Active,,76,2024-2-5,employee173@example.com
+174,Employee 174,40,Operations, Kisumu,Inactive,52000,?,2021-03-15,employee174@example.com
+175,Employee 175,thirty,Support,,ACTIVE,45000,55,15-01-2020,employee175@example.com
+176,Employee 176,31,finance,Nakuru,Inactive,52000,76,2022/07/01,employee176@example.com
+177,Employee 177,27,finance,Mombasa,On Leave,61000,55,15-01-2020,employee177@example.com
+178,Employee 178,28,Marketing, Kisumu,Inactive,52000,55,2022/07/01,employee178@example.com
+179,Employee 179,22,it,Mombasa,ACTIVE,,55,2022/07/01,employee179@example.com
+180,Employee 180,35,Finance,,active ,N/A,62,2024-2-5,employee180@example.com
+181,Employee 181,25,Operations, Kisumu,ACTIVE,52000,?,,employee181@example.com
+182,Employee 182,31,HR,,inactive,N/A,91,2023-11-09,employee182@example.com
+183,Employee 183,thirty,HR,Eldoret,active ,65000,62,2023-11-09,employee183@example.com
+184,Employee 184,,HR, Kisumu,ACTIVE,61000,62,2022/07/01,employee184@example.com
+185,Employee 185,35,Support,Nakuru,ACTIVE,,88,,employee10@example.com
+186,Employee 186,29,Operations,Nakuru,ACTIVE,65000,62,2024-2-5,employee186@example.com
+187,Employee 187,25,Support,Nakuru,inactive,73000,88,2023-11-09,employee187@example.com
+188,Employee 188,31,IT,Eldoret,active ,65000,62,15-01-2020,employee188@example.com
+189,Employee 189,45,Support, Kisumu,On Leave,61000,?,2021-03-15,employee189@example.com
+190,Employee 190,25,HR,Eldoret,Active,,71,,employee190@example.com
+191,Employee 191,22,Marketing,Nakuru,On Leave,52000,88,15-01-2020,employee191@example.com
+192,Employee 192,thirty,operations,,Active,88000,91,15-01-2020,employee192@example.com
+193,Employee 193,25,Marketing,Mombasa,Inactive,72000,84,2021-03-15,employee193@example.com
+194,Employee 194,40,IT,Nairobi,On Leave,73000,88,,employee194@example.com
+195,Employee 195,27,Support,,ACTIVE,45000,91,2021-03-15,employee195@example.com
+196,Employee 196,28,Support, Kisumu,On Leave,,55,2022/07/01,employee196@example.com
+197,Employee 197,28,Support,Eldoret,Active,61000,55,2021-03-15,employee197@example.com
+198,Employee 198,29,Operations,Eldoret,active ,,71,15-01-2020,employee198@example.com
+199,Employee 199,35,IT,Nakuru,ACTIVE,52000,55,2022/07/01,employee199@example.com
+200,Employee 200,28,HR,,Active,88000,?,2024-2-5,employee200@example.com
